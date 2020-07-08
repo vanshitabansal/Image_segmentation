@@ -1,0 +1,5 @@
+For Ann based Segmentation:
+We just need to load the pretrained weights of COCO Dataset.
+
+For Unet model:
+Importing Oxford-IIIT dataset
