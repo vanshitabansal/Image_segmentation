@@ -1,4 +1,6 @@
 # Image_segmentation
+Please Read the Task1 and Task2 Latex Document for better understanding of Code and Project.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 There are three folders:
 1. Threshold Based 
 2. Region Based
